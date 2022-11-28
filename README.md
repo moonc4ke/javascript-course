@@ -10,3 +10,4 @@
 ## Cheatsheats
 
 Git --> https://www.hostinger.com/tutorials/basic-git-commands
+Vue --> https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
