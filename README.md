@@ -1,5 +1,5 @@
 # Lesson 1
 
-## Variables
+## How website works + Chrome Dev Tools + Console.log + Comments + Variables
 
 ## Homework
