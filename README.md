@@ -7,3 +7,6 @@
 3. Node --> https://nodejs.org/en/download/
 4. Git --> https://git-scm.com/downloads
 
+## Cheatsheats
+
+Git --> https://www.hostinger.com/tutorials/basic-git-commands
