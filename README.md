@@ -1,31 +1,20 @@
-# Lesson 2
+# Lesson 3
 
-## Arithmetic expressions + User Input
+## Math methods + useful string methods + string slicing + method chaining + if statements
 
 ## Homework
 
 ////////
-First homework:
-In index.html:
-1. Create new html input element with a placeholder "Search" and id="mySearch". https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder
-2. Create new html div element with id="searchText".
-
-In app.js:
-1. Create new event listener for input with id="mySearch". And instead of onclick use different event listener which will listen for key click events. https://stackoverflow.com/questions/23800977/javascript-how-to-use-onclick-function-also-with-keyboard
-2. Display what you have typed in html div element.
-////////
-
-
-////////
-Second homework:
-Create multiplication calculator :)
+Homework:
+Create program what will tell you if you are an adult or not :)
 
 In index.html:
-1. Create two new input elements with placeholders "First Number", "Second Number" and with ids "firstNumber", "secondNumber".
-2. Create new button element with text "Multiply" and id="multiplyTwoNumbers".
-2. Create new html div element with id="multiplicationResult".
+1. Create new input element with placeholder "My Age".
+2. Create new button element with text "Check My Status" with an id="checkMyStatus".
+3. Create new html div element with id="yourStatus".
 
 In app.js:
-1. Create new event listener for button with id="multiplyTwoNumbers".
-2. Display multiplication result in html div element with id="multiplicationResult".
+1. Create new event listener for button with id="checkMyStatus".
+2. Inside of the event listener use if statement to check your age.
+3. Display your status in html div element with id="yourStatus".
 ////////
