@@ -22,18 +22,68 @@
 
 // console.log(firstLetter);
 
-let age = 26;
+// let age = 35;
+// let immortal = true;
 
-// if (age >= 60) {
+// if (age >= 60 || immortal) {
+//   console.log('As esu nemirtingas');
+// } else if (age >= 60) {
 //   console.log('As esu senas');
 // } else if (age >= 30) {
-//   console.log('Esu jau pagyvenes zmogus');
+//   console.log('As esu vyresnis jau siek tiek');
 // } else {
 //   console.log('vis dar jaunas');
 // }
 
-if (age === '26') {
-  console.log('man yra 26');
-} else {
-  console.log('man nera 26');
-}
+// if (age === '26') {
+//   console.log('man yra 26');
+// } else {
+//   console.log('man nera 26');
+// }
+
+// let grade = 'A';
+
+// switch (grade) {
+//   case '10':
+//     console.log('Tu labai protingas ir gavai maximuma');
+//     break;
+
+//   case '9':
+//     console.log('Tu gavai 9/10');
+//     break;
+
+//   case '8':
+//     console.log('Tu gavai 8/10');
+//     break;
+
+//   case '7':
+//     console.log('Tu gavai 7/10');
+//     break;
+
+//   case '6':
+//     console.log('Tu gavai 6/10');
+//     break;
+
+//   case '5':
+//     console.log('Tu gavai 5/10');
+//     break;
+
+//   case '4':
+//     console.log('Tu gavai 4/10');
+//     break;
+
+//   case '3':
+//     console.log('Tu gavai 3/10');
+//     break;
+
+//   case '2':
+//     console.log('Tu gavai 2/10');
+//     break;
+
+//   case '1':
+//     console.log('Tu gavai 1/10');
+//     break;
+  
+//   default:
+//     console.log(grade, 'tai nera pazymis, o raide');
+// }
