@@ -1,6 +1,9 @@
 # Lesson 3
 
-## Math methods + useful string methods + string slicing + method chaining + if statements
+## Hack Twitch.tv challenge + Math methods + useful string methods + string slicing + method chaining + if statements
+
+### Hack solution:
+https://i.imgur.com/m4hmXRM.png
 
 ## Homework
 
