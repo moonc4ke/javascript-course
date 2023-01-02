@@ -5,6 +5,20 @@
 ### Instagram hack - what are we trying to accomplish?
 https://i.imgur.com/SsNkESg.png
 
+Solution -> https://i.imgur.com/hmu3G7D.png
+
+```
+const searchBar = document.querySelector('#......');
+
+searchBar.onkeyup = function () { 
+    if (searchBar.value === 'gameofthrones') {
+        searchBar.style.background = 'red';
+        
+    } else {
+        searchBar.style.background = ''
+    }
+```
+
 ## Homework
 
 ////////
