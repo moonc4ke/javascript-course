@@ -4,18 +4,40 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lesson 5</title>
+    <title>Cross The River</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <script src="https://unpkg.com/css-doodle@0.32.0/css-doodle.min.js"></script>
-    <css-doodle>
-      :doodle { @grid: 1x3 / 100vmax; position: absolute; top: 0; left: 0; z-index: 0; } @size: 100% 150%; position:
-      absolute; background: @m(100, ( linear-gradient(transparent, @p( #FFFDE1@repeat(2, @p([0-9a-f])),
-      #FB3569@repeat(2, @p([0-9a-f])) )) @r(0%, 100%) @r(0%, 100%) / @r(1px) @r(23vmin) no-repeat )); will-change:
-      transform; animation: f 50s linear calc(-50s / @size() * @i()) infinite; @keyframes f { from { transform:
-      translateY(-100%) } to { transform: translateY(100%) } }
-    </css-doodle>
+    <div class="river">
+      <hr color="green" size="50px" />
+      <div style="height: 500px; background-color: rgb(7, 99, 99)" width="100%">
+        <img
+          class="duck"
+          src="https://www.svgrepo.com/show/120913/duck.svg"
+          alt="the duck"
+          width="30px"
+          height="auto"
+        />
+        <div id="log1" class="wooden-log" style="top: 0%; left: 50%"></div>
+        <div id="log2" class="wooden-log" style="top: 0%; left: 40%"></div>
+        <div id="log3" class="wooden-log" style="top: 0%; left: 30%"></div>
+        <div id="log4" class="wooden-log" style="top: 0%; left: 40%"></div>
+        <div id="log5" class="wooden-log" style="top: 0%; left: 55%"></div>
+        <div id="log6" class="wooden-log" style="top: 0%; left: 60%"></div>
+      </div>
+
+      <hr color="green" size="50px" />
+    </div>
+
+    <div style="margin: 20px auto 0" class="directional-buttons">
+      <button>
+        <span>UP</span>
+      </button>
+      <button>
+        <span>DOWN</span>
+      </button>
+    </div>
+
     <script src="app.js"></script>
   </body>
 </html>
