@@ -1,6 +1,6 @@
 # Lesson 5
 
-## Functions + return + template literals + arrays + OG for each/ my preferred way to for each + sort an array of strings + 2D arrays +
+## Functions + return + template literals + arrays + OG for each/ my preferred way to for each + sort an array of strings + 2D arrays + rest + spread
 
 ## Homework
 
